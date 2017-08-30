@@ -9,8 +9,8 @@
 title: "Andrew Hemans"
 email: andrewhemans@gmail.com
 description: "Andrew Hemans: Product Designer, Front-end Developer, Builder of things."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewhemans.github.io/portfolio-new" # the base hostname & protocol for your site
+baseurl:
+url: https://andrewhemans.github.io/portfolio-new 
 twitter_username: andrewhemans
 github_username:  andrewhemans
 linkedin_username:  andrewhemans

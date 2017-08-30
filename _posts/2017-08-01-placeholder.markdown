@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Placeholder Magazine
-date: 2017-08-01 21:16:51 +0000
-categories: 
-role: Design Lead, Web Developer
-technologies: Sketch, HTML, CSS, Jekyll, Github
-project-date: December 2016
-brief: ''
-post-image: "/images/ph/ph-main.png"
-post-link: placeholder
+title:  "Placeholder Magazine"
+date:   2017-08-01 14:16:51 -0700
+categories:
+role: "Design Lead, Web Developer"
+technologies: "Sketch, HTML, CSS, Jekyll, Github"
+project-date: "December 2016"
+brief: ""
+post-image: "../images/ph/ph-main.png"
+post-link: "placeholder"
 ---
 
 
@@ -30,13 +30,13 @@ Understand key values and ethics of the organization, and design accordingly.
 
 Show off project screens
 
-<img src="/images/ph/ph1.png"/>
-<img src="/images/ph/ph2.png"/>
+<img src="../images/ph/ph1.png"/>
+<img src="../images/ph/ph2.png"/>
 <!-- <img src="/images/ph/ph3.png"/> -->
-<img src="/images/ph/ph4.png"/>
-<img src="/images/ph/ph5.png"/>
+<img src="../images/ph/ph4.png"/>
+<img src="../images/ph/ph5.png"/>
 <!-- <img src="/images/ph/ph6.png"/> -->
-<img src="/images/ph/ph7.png"/>
+<img src="../images/ph/ph7.png"/>
 
 <h2 class="title is-4">Conclusion</h2>
 
