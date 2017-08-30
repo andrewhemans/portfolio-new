@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "My Project"
-date:   2017-08-02 14:16:51 -0700
-categories:
-role: ""
-technologies: ""
-project-date: ""
-brief: ""
+title: My Project
+date: 2017-08-02 21:16:51 +0000
+categories: 
+role: ''
+technologies: ''
+project-date: ''
+brief: ''
 post-image: "/images/test.png"
-post-link: "sencha-test"
+post-link: sencha-test
 ---
 
 
