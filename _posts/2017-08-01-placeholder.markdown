@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Placeholder Magazine"
-date:   2017-08-01 14:16:51 -0700
-categories:
-role: "Design Lead, Web Developer"
-technologies: "Sketch, HTML, CSS, Jekyll, Github"
-project-date: "December 2016"
-brief: ""
+title: Placeholder Magazine
+date: 2017-08-01 21:16:51 +0000
+categories: 
+role: Design Lead, Web Developer
+technologies: Sketch, HTML, CSS, Jekyll, Github
+project-date: December 2016
+brief: ''
 post-image: "../images/ph/ph-main.png"
-post-link: "placeholder"
+post-link: placeholder
 ---
 
 
