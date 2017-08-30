@@ -1,0 +1,31 @@
+
+<footer class="footer">
+  <div class="container" id="contact">
+    <div class="content has-text-centered">
+      <p>
+        <h2 class="title">Say Hi!</h2>
+      </p>
+
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+      <div class="footer-col footer-col-2">
+
+
+          <p>
+          {% if site.github_username %}
+            {% include icon-github.html username=site.github_username %}
+          {% endif %}
+
+          {% if site.twitter_username %}
+            {% include icon-twitter.html username=site.twitter_username %}
+          {% endif %}
+
+          <a href="https://linkedin.com/in/andrewhemans"><i class="fa fa-linkedin"></i></a>
+          </p>
+
+      </div>
+    </div>
+  </div>
+  <script src="/js/javascript.js"></script>
+
+</footer>

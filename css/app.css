@@ -1,0 +1,182 @@
+/*@media screen and (min-width: 1008px) {
+  .container {
+    max-width: 860px;
+    width: 860px;
+  }*/
+
+  /* Color palette */
+
+/*$blue-400: #003c6b;
+$blue-300: #01579b;
+$blue-200: #0365b3;
+$blue-100: #1881d4;
+$grey-1200: #243e53;
+$grey-1100: #4a6072;
+$grey-1000: #708392;
+$grey-900: #97a6b2;
+$grey-800: #a7b5c0;
+$grey-700: #b7c4ce;
+$grey-600: #c8d4dd;
+$grey-500: #d6dfe6;
+$grey-400: #e4eaef;
+$grey-300: #ebf0f4;
+$grey-200: #f3f7f9;
+$grey-100: #f9fbfc;
+$white: #ffffff;*/
+
+.navbar {
+  border-bottom: 1px solid #d6dfe6;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  color: #4a6072;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+a {
+  color: #243e53;
+  cursor: pointer;
+  text-decoration: none;
+  -webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+img {
+  border: 1px solid #c8d4dd;
+}
+
+.about-image {
+  border: none;
+  width: 300px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+a:hover {
+  color: #97a6b2;
+}
+
+
+.title {
+  font-family: 'Frank Ruhl Libre', sans-serif;
+  font-weight: normal;
+  color: #243e53;
+}
+
+@media screen and (min-width: 1008px) {
+  .navbar-link::after {
+      border: 1px solid #243e53;
+      border-right: 0;
+      border-top: 0;
+      content: " ";
+      display: block;
+      height: 0.5em;
+      pointer-events: none;
+      position: absolute;
+      -webkit-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+      width: 0.5em;
+      margin-top: -0.375em;
+      right: 1.125em;
+      top: 50%;
+  }
+}
+
+.footer {
+    background-color: #ebf0f4;
+}
+
+.footer-col-2 p {
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.post-content p, .post-content h2 {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.post-content {
+  padding: 3rem 0;
+}
+
+.post-content p {
+  padding-bottom: 1.5rem;
+  /*letter-spacing: -1px;*/
+}
+
+.post-content h2 {
+  letter-spacing: 0px;
+}
+
+.post-list li {
+  margin: 3rem 0;
+}
+
+
+.hero-head, .hero-foot {
+    padding: 16rem 0 3rem 0;
+}
+
+.hero.is-primary {
+    background-color: #b7c4ce;
+    color: #fff;
+    background-image: url(../images/andrew.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.post-container {
+  height: 560px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f3f7f9;
+}
+
+.post-hero {
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid #d6dfe6;
+}
+
+.section {
+  padding: 0 1.5rem;
+}
+
+.about {
+  padding-bottom: 1.5rem;
+}
+
+.about p {
+  /*max-width: 600px;*/
+  /*width: 600px;*/
+  margin: 0 auto;
+  padding-bottom: 1.5rem;
+}
+
+.about-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 1200px)
+{
+.container {
+    max-width: 860px;
+    width: 860px;
+  }
+}
